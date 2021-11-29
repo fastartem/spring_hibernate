@@ -27,4 +27,12 @@ public class Car {
         this.series = series;
     }
 
+    public String getModel() {
+        return model;
+    }
+
+    public int getSeries() {
+        return series;
+    }
+
 }
